@@ -1,2 +1,3 @@
-# Titanic-survival-prediction
-Prediction of survival rate in titanic ship
+# Mini Projects and Internship Project
+
+
